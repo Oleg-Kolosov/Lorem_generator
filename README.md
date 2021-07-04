@@ -1,6 +1,6 @@
 # Hipster Ipsum Generator
 
-[Watch Demo]()
+[Watch Demo](https://oleg-kolosov.github.io/Lorem_generator/)
 
 ### Author
 
